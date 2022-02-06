@@ -36,14 +36,5 @@
     transform: rotate(360deg);
   }
 }
-.class-container{
-  display: flex;
-  flex: auto;
-  width: 250px;
-  height: 250px;
-  text-align: center;
-  align-items: center;
-  box-shadow: 0 0  10px black;
-  margin: 20px;
-}
+
 

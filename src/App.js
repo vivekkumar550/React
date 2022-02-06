@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Card1 from './Card1'
+import Validation from './Validation'
 
 
 
@@ -10,8 +10,9 @@ class App extends Component {
   render() {
     return (
       <div className=''>
-        <Card1 />
+        <Validation />
       </div>
+
 
     );
   }
