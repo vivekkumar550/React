@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-function Validation() {
+function Login() {
     const [user, setUser] = useState("");
     const [password, setPassword] = useState("");
     const [userErr, setUserErr] = useState(false);
@@ -51,4 +51,4 @@ function Validation() {
     )
 }
 
-export default Validation;
+export default Login;
